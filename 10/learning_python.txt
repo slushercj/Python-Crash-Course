@@ -1,0 +1,4 @@
+In Python you can use the strip() function to remove leading/trailing whitespace
+In Python you can use functions to modularize code
+In Python you can use conditionals and loops to control program flow
+In Python you can get a substring by using brackets with indices

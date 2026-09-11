@@ -1,0 +1,17 @@
+car = 'ram'
+print(f"Is car a ram?  I predict True: {car == 'ram'}")
+print(f"Is car a bmw?  I predict False: {car == 'bmw'}")
+print(f"Is 3 > 3?  I predict False: {3 > 3}")
+print(f"Is 5 > 3?  I predict True: {5 > 3}")
+print(f"Is 2 >= 3?  I predict False: {2 >= 3}")
+print(f"Is 2 >= 3 or 3 >= 3?  I predict True: {2 >= 3 or 3 >= 3}")
+print(f"Is 1 == 1 and 3 == 3?  I predict True: {1 == 1 and 3 == 3}")
+print(f"Is 10 <= 3 or 3 > 3?  I predict False: {10 <= 3 or 3 > 3}")
+print(f"Is 2 >= 3 or 3 >= 3?  I predict True: {2 >= 3 or 3 >= 3}")
+print(f"Is 3 != 5 and 4 != 4?  I predict False: {3 != 5 and 4 != 4}")
+
+print(f"Is 'Chris' == 'chris'?  I predict False: {'Chris' == 'chris'}")
+print(f"Is 'chris' == 'chris'?  I predict True: {'chris' == 'chris'}")
+print(f"Is 'Chris'.lower() == 'chris'?  I predict True: {'Chris'.lower() == 'chris'}")
+print(f"Is 'Chris'.lower() in ['chris', 'marlyn', 'walter', 'keran']?  I predict True: {'Chris'.lower() in ['chris', 'marlyn', 'walter', 'keran']}")
+print(f"Is 'Yorgelis'.lower() in ['chris', 'marlyn', 'walter', 'keran']?  I predict False: {'Yorgelis'.lower() in ['chris', 'marlyn', 'walter', 'keran']}")

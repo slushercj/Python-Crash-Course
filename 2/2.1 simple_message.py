@@ -1,0 +1,2 @@
+message = "Malavon"
+print(message)
